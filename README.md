@@ -39,8 +39,13 @@ The next session will take place on **June 4 2024 at 9:30 (CEST)**.
 
 The following topics (but not limited to) are relevant for discussion within this research channel:
 
+- Querying over data on the Web
 - Distributed and federated querying over Knowledge Graphs
-- Efficient query processing
 - Benchmarking query engines for Knowledge Graphs
 - Query languages
 - Developer Experience
+
+## 📬 Organization
+
+These sessions are organized by [Ruben Taelman](https://www.rubensworks.net/) (Ghent University - imec) and colleagues.
+For questions, please contact [Ruben Taelman](mailto:ruben.taelman@ugent.be).
