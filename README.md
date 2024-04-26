@@ -31,9 +31,9 @@ please contact [Ruben Taelman](mailto:ruben.taelman@ugent.be).
 
 ## 📅 Schedule
 
-Sessions will be held every two months on the first Tuesday of the month at 9:30 (CEST).
+Sessions will be held every two months on the second Tuesday of the month at 9:30 (CEST).
 
-The next session will take place on **June 4 2024 at 9:30 (CEST)**.
+The next session will take place on **June 11 2024 at 9:30 (CEST)**.
 
 ## 💡 Topics
 
