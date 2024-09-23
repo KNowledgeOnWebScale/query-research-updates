@@ -1,7 +1,12 @@
-# Querying Decentralized Knowledge _Research Channel_
+# KNoWS Monthly Query Research Updates
 
-The Querying Decentralized Knowledge (QDK) Research Channel provides a **platform for researchers**
-in domains related to query execution over decentralized knowledge.
+The [KNoWS research group](https://knows.idlab.ugent.be/) at Ghent University
+presents monthly query research updates.
+
+The goal of these updates is to share the research we have ongoing
+across the different people (~6) working on query-related topics.
+These research topics are related to improving the way we query over Web-based decentralized environments,
+with SPARQL, RDF, Solid, and more.
 It allows researchers to **share recent developments**, **discuss open challenges**, and **announce research results** to a wider audience.
 
 The target audience of this channel consists of other researchers in related domains,
@@ -9,41 +14,36 @@ but also the wider public that are interested in this field for non-research aim
 
 ## 🧩 Format
 
-Every two months, a one-hour long livestream is held
-during which several research groups are invited to present their research.
-Each group receives a time slot, and is free to decide how to fill it.
-For example, some groups may want a single presenter to go in-depth into a single topic,
-while other groups may want a more fast-paced overview of research by several presenters.
-
-Presentations are meant to trigger and enable discussion, as opposed to be unidirectional.
-As such, expect interruptions from other participants.
+Within every progress update, each KNoWS researcher has a 5-minute slot to present the overall research goal,
+achievements from the previous month, and goals for the next month.
+After each researcher, we have a brief group discussion among all participants.
+Sometimes, guests may also be invited for presenting or contributing to discussions.
 
 ## 🖥️ How to watch
 
-For people that want to follow the discussions without presenting,
-they can follow the video feed that is livestreamed to our [YouTube channel]().
+The monthly updates are livestreamed to our [YouTube channel](https://www.youtube.com/@KNoWS-UGent).
 All recordings are kept available for future reference in this YouTube channel.
 
-## 🤝 How to participate
-
-For researchers that want to present something during an upcoming session,
-please contact [Ruben Taelman](mailto:ruben.taelman@ugent.be).
+<center>
+  <div id="iframeDiv"><a id="iframeLink" href="https://www.youtube.com/embed/DQBSu8xeofg"><img src="https://i3.ytimg.com/vi/DQBSu8xeofg/maxresdefault.jpg"></a></div>
+</center>
 
 ## 📅 Schedule
 
-Sessions will be held every two months on the second Tuesday of the month at 9:30 (CEST).
+Updates will be held every two months on the last Tuesday of the month at 9:30 (Brussels time).
 
-The next session will take place on **June 11 2024 at 9:30 (CEST)**.
+The next update will take place on **September 24 2024 at 9:30 (Brussels time)**.
 
 ## 💡 Topics
 
-The following topics (but not limited to) are relevant for discussion within this research channel:
+The following researchers are scheduled to present their topics every month:
 
-- Querying over data on the Web
-- Distributed and federated querying over Knowledge Graphs
-- Benchmarking query engines for Knowledge Graphs
-- Query languages
-- Developer Experience
+* Ruben Eschauzier - Personalized query optimization in link traversal query processing
+* Elias Crum - Storing and querying personal genome data in decentralized environments
+* Jonni Hanski - Looking into applying adaptive query processing techniques in link traversal
+* Maarten Vandenbrande - Optimizing decentralized querying using solid-aggregators via incremental processing
+* Bryan-Elliott Tam - Optimizing Link Traversal querying using explicit data publication structures
+* Ruben Taelman - Management + ensuring software architectures meet the requirements of our long-term research questions
 
 ## 📬 Organization
 
