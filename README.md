@@ -25,8 +25,10 @@ The monthly updates are livestreamed to our [YouTube channel](https://www.youtub
 All recordings are kept available for future reference in this YouTube channel.
 
 <center>
-  <div id="iframeDiv"><a id="iframeLink" href="https://www.youtube.com/embed/DQBSu8xeofg"><img src="https://i3.ytimg.com/vi/DQBSu8xeofg/maxresdefault.jpg"></a></div>
+  <div id="iframeDiv"><a id="iframeLink" href="https://www.youtube.com/embed/njCQ50F6xT4"><img src="https://i3.ytimg.com/vi/njCQ50F6xT4/maxresdefault.jpg"></a></div>
 </center>
+
+Archive: https://www.youtube.com/playlist?list=PLwhwIA9xTNXHDhr2BNC-fiZu8REmiXG7D
 
 ## 📅 Schedule
 
